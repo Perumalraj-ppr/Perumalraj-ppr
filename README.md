@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Perumalraj-ppr
-- 🌱 I’m currently learning ... Selenium with JAVA
+- 🌱 I’m currently learning JAVA... 
 - 📫 How to reach me ...PERUMALRAJ.PPR@GMAIL.COM 
 - ✌  Hear I'm sharing .... Some of Concepts Learned and Hands on Experiences
 
